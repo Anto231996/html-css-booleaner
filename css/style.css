@@ -17,7 +17,7 @@ body{
 }
 
 .row-odd{
-    background-color: rgb(0, 204, 255);
+    background-color: rgba(0, 204, 255);
 }
 
 .info{
@@ -31,4 +31,23 @@ body{
 #first-row{
     color: white;
     background-color: rgb(0, 162, 255);
+}
+
+.immagine1, .immagine2{
+    height: 207px;
+    width: 311px;
+}
+
+.immagine1{
+    background-image: url(../img/monitor.jpg);
+}
+
+.immagine2{
+    background-image: url(../img/graph.jpg);
+}
+
+h3{
+    color: white;
+    text-align: center;
+    padding: 5px;
 }
