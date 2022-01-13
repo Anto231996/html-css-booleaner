@@ -15,7 +15,11 @@ body{
     background-color: yellow;
 }
 
-.first-row{
+#first-row{
     color: white;
     background-color: rgb(64, 165, 224);
+}
+
+.row-odd{
+    background-color: rgb(0, 255, 221);
 }
