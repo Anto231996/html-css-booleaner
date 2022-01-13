@@ -1,11 +1,11 @@
 body{
     width: 1200px;
     margin: auto;
-    font-family:'Roboto', sans-serif;;
+    font-family:'Roboto', sans-serif;
 }
 
-.logo-principale{
-    height: 180px;
+.loghi{
+    height: 95px;
     width: auto;
     background-color: rgb(100, 187, 237);
     background-image: url(../img/pattern.png);
@@ -22,4 +22,12 @@ body{
 
 .row-odd{
     background-color: rgb(0, 255, 221);
+}
+
+.info{
+    color: grey;
+}
+
+#logo{
+    height: 100px;
 }
