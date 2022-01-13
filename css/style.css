@@ -1,0 +1,21 @@
+body{
+    width: 1200px;
+    margin: auto;
+    font-family:'Roboto', sans-serif;;
+}
+
+.logo-principale{
+    height: 180px;
+    width: auto;
+    background-color: rgb(100, 187, 237);
+    background-image: url(../img/pattern.png);
+}
+
+.frasi-evidenziate{
+    background-color: yellow;
+}
+
+.first-row{
+    color: white;
+    background-color: rgb(64, 165, 224);
+}
