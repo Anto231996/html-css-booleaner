@@ -4,12 +4,21 @@ body{
     font-family:'Roboto', sans-serif;
 }
 
+h3{
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+table{
+    text-align: left;
+}
+
 .loghi{
     height: 95px;
     width: auto;
     background-color: rgb(100, 187, 237);
     background-image: url(../img/pattern.png);
-
 }
 
 .frasi-evidenziate{
@@ -22,15 +31,6 @@ body{
 
 .info{
     color: grey;
-}
-
-#logo{
-    height: 100px;
-}
-
-#first-row{
-    color: white;
-    background-color: rgb(0, 162, 255);
 }
 
 .immagine1, .immagine2{
@@ -46,8 +46,15 @@ body{
     background-image: url(../img/graph.jpg);
 }
 
-h3{
+#logo{
+    height: 100px;
+}
+
+#first-row{
     color: white;
-    text-align: center;
-    padding: 5px;
+    background-color: rgb(0, 162, 255);
+}
+
+#half-width{
+    width: 33%;
 }
